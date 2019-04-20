@@ -1,2 +1,2 @@
-# Weather-And-rapid-API-App
-This is a Weather And rapid API App using PHP
+# software-engineering-ass1
+Software engineering assignment 1 dealing with APIs 

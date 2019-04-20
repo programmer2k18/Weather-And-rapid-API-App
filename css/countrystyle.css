@@ -1,0 +1,14 @@
+*{
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{padding: 0;margin: 0;
+
+}
+.data{margin-bottom: 19px}
+.country{margin-bottom: 17px}
+.card-body{color: #062c33;opacity: 0.7}
+.last{margin: 16px 0px}
+.heading{color: #062c33;opacity: 0.7;text-align: center;margin:20px}

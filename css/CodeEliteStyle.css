@@ -1,0 +1,48 @@
+*{
+    -webkit-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{padding: 0;margin: 0;}
+.data{
+    margin-bottom: 40px;
+}
+.image{
+    max-height: 600px;
+    overflow: hidden;
+}
+.image img{
+    width: 100%;
+    height: 100%;
+}
+.result{margin-top: 50px}
+.head2{padding:20px}
+/*red color: #EC1C23*/
+/*blue color: #08526D*/
+.im{margin-top: 16px;}
+.fath{padding: 25px;}
+.myform{padding: 0px 40px;margin-left: 20px}
+.desc{
+    margin: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.desc h3{
+    color: #CCC;
+    margin: 17px;
+    margin-bottom: 40px;
+    line-height: 1.4;
+}
+
+.postandupdate{margin-top: 30px;padding-top: 30px}
+.postandupdate .post{margin-top: 30px}
+.postandupdate .update{margin-top: 30px}
+.postandupdate .name,.postandupdate .desc{margin: 13px 0px;}
+
+
+
+
+
+
